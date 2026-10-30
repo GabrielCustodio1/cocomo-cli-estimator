@@ -1,0 +1,15 @@
+# Artefatos e pastas de compilação do CLion / CMake
+cmake-build-*/
+build/
+
+# Configurações de workspace do CLion / JetBrains
+.idea/
+*.iws
+*.iml
+
+# Binários executáveis e arquivos-objeto compilados
+*.exe
+*.out
+*.app
+*.o
+*.obj
